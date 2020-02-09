@@ -29,7 +29,7 @@ We were able to perform these functions mentioned in the last four points with t
 
 #### Architecture Diagram
 
-Affix an image of the flow diagram/architecture diagram of the solution
+# done in a separate file
 
 #### Technical Description
 

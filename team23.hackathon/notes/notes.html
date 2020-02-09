@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+
+<head>
+    <title>Saved Notes</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="../css/notestyle.css">
+    <link rel="stylesheet" href="../css/savednotestyle.css">
+</head>
+
+<body>
+    <nav>
+        <ul>
+            <li class="dark-mode"><span>Dark Mode:</span>
+                <label class="switch">
+                <input type="checkbox">
+                <span class="slider"></span>
+              </label>
+            </li>
+            <a href="generalnote.html">Add General Note</a></li>
+            <a href="chemistrynotes.html">Add CHEMISTRY Note</a></li>
+            <a href="mathematicsnotes.html">Add MATHEMATICS Note</a></li>
+            <a href="physicsnotes.html">Add PHYSICS Note</a></li>
+        </ul>
+    </nav>
+    <main>
+        <p>Add new notes:</p>
+
+        <a href="physicsnotes.html">Add new <em> PHYSICS </em> note</a>
+        <br>
+        <br>
+        <a href="chemistrynotes.html">Add new <em> CHEMISTRY </em> note</a>
+        <br>
+        <br>
+        <a href="mathematicsnotes.html">Add new <em> MATHEMATICS </em> note</a>
+        <br>
+        <br>
+        <a href="generalnote.html">Add any other kind of <em>GENERAL</em> note</a>
+        <br>
+        <br>
+
+
+
+    </main>
+    <div class="newnote-container modal">
+
+        <div class="modal-content">
+            <p class="exit-modal-button">&times;</p>
+            <form>
+                <textarea placeholder="Add text here"></textarea>
+            </form>
+            <p class="time-edited"></p>
+            <div class="button-style">
+                <button class="action-button delete-button">Delete</button>
+                <button class="action-button edit-button">Save changes</button>
+            </div>
+        </div>
+
+    </div>
+
+
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@9"></script>
+    <script src="sweetalert2.all.min.js"></script>
+    <script src="../scripts/saved.js"></script>
+
+</body>
+
+</html>
