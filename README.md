@@ -25,11 +25,8 @@ Our approach towards the solution:
 We were able to perform these functions mentioned in the last four points with the help of JavaScript.
 
 
-#### Architecture Diagram
 
-# done in a separate file
-
-#### Technical Description
+### Technical Description
 
 Technologies Used:
 * HTML 5
