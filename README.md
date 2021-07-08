@@ -3,7 +3,7 @@
 ### Project Overview
 ----------------------------------
 
-A Web App to take notes in classes can be quite handy as everyone has a laptop these days. For the ease of the students this app is being created by our team. The main aim is to add notes of various subjects such as Physics, Chemistry, Mathematics and any other type of notes in a different folder which we named as ANY KIND OF GENERAL NOTE placed at top right corner. Different notes of different subjects will be saved in their respective subjects folders. We have provided the DARK MODE in our app.
+A Web App to take notes in classes which can be quite handy as everyone has a laptop these days. For the ease of the students this app is being created by our team. The main aim is to add notes of various subjects such as Physics, Chemistry, Mathematics and any other type of notes in a different folder which we named as ANY KIND OF GENERAL NOTE placed at top right corner. Different notes of different subjects will be saved in their respective subjects folders. We have provided the DARK MODE in our app.
 The basic function of this app:
 * Add notes,
 * Edit notes or
